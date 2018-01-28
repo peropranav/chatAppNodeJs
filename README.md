@@ -1,6 +1,6 @@
 # chatAppNodeJs
 
-### NODEJS chat app,main page asking your name and the room you want to join for interesting chats.
+ NODEJS chat app,main page asking your name and the room you want to join for interesting chats.
 
 ## USED TECHNOLOGIES
 * express
